@@ -1,0 +1,30 @@
+{
+  "entities": {
+    "categories": {
+      "title": "string",
+      "description": "string",
+      "icon": "string",
+      "order": "number",
+      "createdAt": "string",
+      "updatedAt": "string"
+    },
+    "materials": {
+      "categoryId": "string",
+      "title": "string",
+      "type": "string",
+      "originalUrl": "string",
+      "embedUrl": "string",
+      "order": "number",
+      "description": "string",
+      "isPublished": "boolean",
+      "reflectionQuestions": "array",
+      "createdAt": "string",
+      "updatedAt": "string"
+    },
+    "settings": {
+      "adminPin": "string",
+      "siteTitle": "string",
+      "updatedAt": "string"
+    }
+  }
+}
